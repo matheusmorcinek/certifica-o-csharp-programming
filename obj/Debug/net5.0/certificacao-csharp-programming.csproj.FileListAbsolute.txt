@@ -1,0 +1,15 @@
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/bin/Debug/net5.0/certificacao-csharp-programming.deps.json
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/bin/Debug/net5.0/certificacao-csharp-programming.runtimeconfig.json
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/bin/Debug/net5.0/certificacao-csharp-programming.runtimeconfig.dev.json
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/bin/Debug/net5.0/certificacao-csharp-programming.dll
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/bin/Debug/net5.0/ref/certificacao-csharp-programming.dll
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/bin/Debug/net5.0/certificacao-csharp-programming.pdb
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.csprojAssemblyReference.cache
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.AssemblyInfoInputs.cache
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.AssemblyInfo.cs
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.csproj.CoreCompileInputs.cache
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.dll
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/ref/certificacao-csharp-programming.dll
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.pdb
+/Users/matheus.morcinek/Documents/Matheus Docs/PROJECTS/study/certificacao-csharp-programming/obj/Debug/net5.0/certificacao-csharp-programming.genruntimeconfig.cache
