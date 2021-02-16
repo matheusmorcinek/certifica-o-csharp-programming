@@ -20,7 +20,10 @@ namespace certificacao_csharp_programming
             // dec.Executar();
 
             Booleanos booleanos = new Booleanos();
-            booleanos.Executar();
+            // booleanos.Executar();
+
+            Estruturas estruturas = new Estruturas();
+            estruturas.Executar();
         }
     }
 }
