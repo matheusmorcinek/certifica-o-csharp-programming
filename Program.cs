@@ -26,7 +26,16 @@ namespace certificacao_csharp_programming
             // estruturas.Executar();
 
             Enumeracoes enumeracoes = new Enumeracoes();
-            enumeracoes.Executar();
+            // enumeracoes.Executar();
+
+            TiposDeReferencia tiposDeReferencia = new TiposDeReferencia();
+            // tiposDeReferencia.Executar();
+
+            Classes classes = new Classes();
+            // classes.Executar();
+
+            Interfaces interfaces = new Interfaces();
+            interfaces.Executar();
         }
     }
 }
