@@ -35,7 +35,19 @@ namespace certificacao_csharp_programming
             // classes.Executar();
 
             Interfaces interfaces = new Interfaces();
-            interfaces.Executar();
+            // interfaces.Executar();
+
+            Delegates delegates = new Delegates();
+            // delegates.Executar();
+
+            Objetos objetos = new Objetos();
+            // objetos.Executar();
+
+            Dinamicos dinamicos = new Dinamicos();
+            // dinamicos.Executar();
+
+            Strings strings = new Strings();
+            strings.Executar();
         }
     }
 }
